@@ -1,0 +1,77 @@
+#main-header img {
+    height: 100%;
+    width: 100%;
+}
+
+
+#conteiner {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+#foto {
+    height: 300px;
+    width: 300px;
+
+}
+
+#img {
+    height: 300px;
+}
+
+#tresc {
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+}
+
+#firstRow {
+    display: flex;
+    flex: auto;
+    justify-content: space-around;
+    align-content: center;
+}
+
+#middleRow {
+    display: flex;
+    background-color: #000;
+    align-content: center;
+    justify-content: flex-start;
+}
+
+#buttonRow {
+    display: flex;
+    flex: auto;
+
+
+
+}
+
+#buttonTwo {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttonThree {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttonOne {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttonFore {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
